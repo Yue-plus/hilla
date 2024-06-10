@@ -7,13 +7,13 @@
     "@vaadin/common-frontend": "0.0.19",
     "@vaadin/hilla-frontend": "file:../../../../ts/frontend",
     "@vaadin/hilla-lit-form": "file:../../../../ts/lit-form",
-    "@vaadin/icon": "24.5.0-alpha2",
-    "@vaadin/icons": "24.5.0-alpha2",
-    "@vaadin/polymer-legacy-adapter": "24.5.0-alpha2",
+    "@vaadin/icon": "24.5.0-alpha3",
+    "@vaadin/icons": "24.5.0-alpha3",
+    "@vaadin/polymer-legacy-adapter": "24.5.0-alpha3",
     "@vaadin/router": "1.7.5",
-    "@vaadin/tooltip": "24.5.0-alpha2",
-    "@vaadin/vaadin-lumo-styles": "24.5.0-alpha2",
-    "@vaadin/vaadin-themable-mixin": "24.5.0-alpha2",
+    "@vaadin/tooltip": "24.5.0-alpha3",
+    "@vaadin/vaadin-lumo-styles": "24.5.0-alpha3",
+    "@vaadin/vaadin-themable-mixin": "24.5.0-alpha3",
     "construct-style-sheets-polyfill": "3.1.0",
     "lit": "3.1.4"
   },
@@ -50,13 +50,13 @@
       "@vaadin/common-frontend": "0.0.19",
       "@vaadin/hilla-frontend": "24.5.0-alpha2",
       "@vaadin/hilla-lit-form": "24.5.0-alpha2",
-      "@vaadin/icon": "24.5.0-alpha2",
-      "@vaadin/icons": "24.5.0-alpha2",
-      "@vaadin/polymer-legacy-adapter": "24.5.0-alpha2",
+      "@vaadin/icon": "24.5.0-alpha3",
+      "@vaadin/icons": "24.5.0-alpha3",
+      "@vaadin/polymer-legacy-adapter": "24.5.0-alpha3",
       "@vaadin/router": "1.7.5",
-      "@vaadin/tooltip": "24.5.0-alpha2",
-      "@vaadin/vaadin-lumo-styles": "24.5.0-alpha2",
-      "@vaadin/vaadin-themable-mixin": "24.5.0-alpha2",
+      "@vaadin/tooltip": "24.5.0-alpha3",
+      "@vaadin/vaadin-lumo-styles": "24.5.0-alpha3",
+      "@vaadin/vaadin-themable-mixin": "24.5.0-alpha3",
       "construct-style-sheets-polyfill": "3.1.0",
       "lit": "3.1.4"
     },
@@ -87,7 +87,7 @@
       "workbox-core": "7.1.0",
       "workbox-precaching": "7.1.0"
     },
-    "hash": "e4e653308351408278d53f8a9fbaff749a31b468c0103950d07bdfc7e4d8aac5"
+    "hash": "d6b8823198536f7675b7ee9944cab7414b8966458506248b107b91550895f457"
   },
   "overrides": {
     "@vaadin/common-frontend": "$@vaadin/common-frontend",

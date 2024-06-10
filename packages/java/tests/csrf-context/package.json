@@ -7,13 +7,13 @@
     "@vaadin/common-frontend": "0.0.19",
     "@vaadin/hilla-frontend": "file:../../../ts/frontend",
     "@vaadin/hilla-lit-form": "file:../../../ts/lit-form",
-    "@vaadin/icon": "24.5.0-alpha2",
-    "@vaadin/icons": "24.5.0-alpha2",
-    "@vaadin/polymer-legacy-adapter": "24.5.0-alpha2",
+    "@vaadin/icon": "24.5.0-alpha3",
+    "@vaadin/icons": "24.5.0-alpha3",
+    "@vaadin/polymer-legacy-adapter": "24.5.0-alpha3",
     "@vaadin/router": "1.7.5",
-    "@vaadin/tooltip": "24.5.0-alpha2",
-    "@vaadin/vaadin-lumo-styles": "24.5.0-alpha2",
-    "@vaadin/vaadin-themable-mixin": "24.5.0-alpha2",
+    "@vaadin/tooltip": "24.5.0-alpha3",
+    "@vaadin/vaadin-lumo-styles": "24.5.0-alpha3",
+    "@vaadin/vaadin-themable-mixin": "24.5.0-alpha3",
     "construct-style-sheets-polyfill": "3.1.0",
     "lit": "3.1.4"
   },
@@ -50,13 +50,13 @@
       "@vaadin/common-frontend": "0.0.19",
       "@vaadin/hilla-frontend": "24.5.0-alpha2",
       "@vaadin/hilla-lit-form": "24.5.0-alpha2",
-      "@vaadin/icon": "24.5.0-alpha2",
-      "@vaadin/icons": "24.5.0-alpha2",
-      "@vaadin/polymer-legacy-adapter": "24.5.0-alpha2",
+      "@vaadin/icon": "24.5.0-alpha3",
+      "@vaadin/icons": "24.5.0-alpha3",
+      "@vaadin/polymer-legacy-adapter": "24.5.0-alpha3",
       "@vaadin/router": "1.7.5",
-      "@vaadin/tooltip": "24.5.0-alpha2",
-      "@vaadin/vaadin-lumo-styles": "24.5.0-alpha2",
-      "@vaadin/vaadin-themable-mixin": "24.5.0-alpha2",
+      "@vaadin/tooltip": "24.5.0-alpha3",
+      "@vaadin/vaadin-lumo-styles": "24.5.0-alpha3",
+      "@vaadin/vaadin-themable-mixin": "24.5.0-alpha3",
       "construct-style-sheets-polyfill": "3.1.0",
       "lit": "3.1.4"
     },
@@ -87,7 +87,7 @@
       "workbox-core": "7.1.0",
       "workbox-precaching": "7.1.0"
     },
-    "hash": "2d9318bd036840fe7813a88502e53d77fb45fa808cfa01d91ae327d586ad856f"
+    "hash": "3fa40370ff4efc901119f25780fefed531409395912150274bc66a00aa177808"
   },
   "overrides": {
     "@vaadin/common-frontend": "$@vaadin/common-frontend",
